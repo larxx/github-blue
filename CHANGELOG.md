@@ -4,6 +4,10 @@ All notable changes to the "github-blue" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2]
+
+- Adjusted workbench tree indent guide color
+
 ## [1.0.1]
 
 - Adjusted colors on command palette and notification
