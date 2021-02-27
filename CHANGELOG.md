@@ -4,6 +4,10 @@ All notable changes to the "github-blue" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.1]
+
+- Adjusted colors on command palette and notification
+
+## [1.0.0]
 
 - Initial release
