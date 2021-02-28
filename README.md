@@ -1,6 +1,6 @@
 # Github Blue
 
-GitHub Blue theme - As seen from GitHub's home page.  
+GitHub Blue theme - A softer and much more comfortable theme for the eyes. Inspired by the one on GitHub's home page.
 <br>
 
 React
