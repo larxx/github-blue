@@ -159,7 +159,7 @@
     "titleBar.border": "#070d1a",
     "titleBar.inactiveBackground": "#0c162d",
     "titleBar.inactiveForeground": "#8b949e",
-    "tree.indentGuidesStroke": "#162751",
+    "tree.indentGuidesStroke": "#30363d",
     "welcomePage.buttonBackground": "#21262d",
     "welcomePage.buttonHoverBackground": "#30363d"
     //"activityBar.dropBorder": "#c9d1d9",
