@@ -3,7 +3,7 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    "activityBar.activeBorder": "#ee9c8e",
+    "activityBar.activeBorder": "#e58a63",
     "activityBar.background": "#0c162d",
     "activityBar.border": "#070d1a",
     "activityBar.foreground": "#c9d1d9",
@@ -94,7 +94,7 @@
     "panel.background": "#0c162d",
     "panel.border": "#0c162d",
     "panelInput.border": "#0c162d",
-    "panelTitle.activeBorder": "#ee9c8e",
+    "panelTitle.activeBorder": "#e58a63",
     "panelTitle.activeForeground": "#c9d1d9",
     "panelTitle.inactiveForeground": "#8b949e",
     "peekViewEditor.background": "#0c162d88",

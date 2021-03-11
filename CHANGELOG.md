@@ -4,6 +4,10 @@ All notable changes to the "github-blue" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.6]
+
+- Adjusted colors
+
 ## [1.0.5]
 
 - Theme path typo fixed and adjusted tree indent guide color
