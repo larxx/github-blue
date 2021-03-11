@@ -2,7 +2,7 @@
   "name": "github-blue",
   "displayName": "Github Blue",
   "description": "GitHub Blue theme - As seen from GitHub's home page.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "larxx",
   "icon": "icon.png",
   "engines": {
